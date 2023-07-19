@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
-namespace A10
+namespace ConAppAssignment10
 {
     public class operations
     {
